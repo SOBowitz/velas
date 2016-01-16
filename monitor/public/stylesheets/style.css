@@ -4,5 +4,11 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #FFB7FF;
+}
+
+#link {
+  border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 10px;
 }
